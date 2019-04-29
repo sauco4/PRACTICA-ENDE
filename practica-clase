@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="Es es">
+<head>
+<meta charset="utf-8">
+<title>index</title>
+<link href="css/nav.css" rel="stylesheet" type="text/css">
+<link href="css/body.css" rel="stylesheet" type="text/css">
+<link href="css/footer.css" rel="stylesheet" type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
+<script src=""></script>
+
+</head>
+
+<body>
+
+<nav>
+<ul>
+	
+	<li><a href=""><i class="fab fa-apple"></i></a></li>
+	<li id="arriba"><a href="">Mac</a></li>
+	<li><a href="">iPad</a></li>
+	<li><a href="">Watch</a></li>
+	<li><a href="">TV</a></li>
+	<li><a href="">Music</a></li>
+	<li><a href="">Soporte</a></li>
+	<li><a href=""><i class="fas fa-search"></i></a></li>
+	<li><a href=""><i class="fas fa-shopping-bag"></i></a></li>
+	
+</ul>
+</nav>
+
+<div class="barra1">
+	<h2>iPhone XR desde 589 €. iPhone XS desde 889 €.</h2>
+	<h3>Llévate un iPhone XR desde 24,54 €/mes al cambiar tu iPhone en un Apple Store</h3>
+	
+	<ul>
+		<li><a href="">Comprar iPhone XR></a>
+		</li>
+		<li><a href="">Comprar iPhone XS></a></li>
+		<li><a href="">Más información</a></li>
+	</ul>
+</div>
+
+<div class="barraSeparadora">
+	
+</div>
+
+<div class="barra2">
+
+	<h2>iPhone XR</h2>
+	<h3>Diseño a toda pantalla. La mayor autonomía en un Iphone. El rendimiento más
+rápido. Y fotos con calidad de estudio.</h3>
+	
+	<ul>		
+		<li><a href="">Más información</a></li>
+		<li><a href="">Comprar</a></li>
+
+	</ul>
+	
+	<img src="images/images/imagenTerceraSeccion.jpg" alt="">
+	
+</div>
+<div class="barra2">
+
+	<h2>iPhone XS</h2>
+	<h3>2. La mayor pantalla Super Retina. El rendimiento más rápido con el chip A12 Bionic.
+Face ID con la tecnología de reconocimiento facial más segura. Y un
+revolucio-nario sistema de cámara dual con Control de Profundidad.</h3>
+	
+	<ul>		
+		<li><a href="">Más información</a></li>
+		<li><a href="">Comprar</a></li>
+
+	</ul>
+	
+	<img src="images/images/imagenCuartaSeccion.jpg" alt="">
+	
+</div>
+
+<div class="barra3">
+	<div class="borde">
+	<h2>Macbook Air</h2>
+	<h3>Vuelve lo ligero</h3>	
+	<ul>		
+		<li><a href="">Más información</a></li>
+		<li><a href="">Comprar</a></li>
+
+	</ul>
+	</div>
+	
+	<img src="images/images/imagenQuintaSeccion.jpg" alt="">
+	
+</div>
+
+<div>
+	<div class="barra4">
+	<h2>Apple Watch</h2>
+	<h3>Vuelve lo ligero</h3>	
+	<ul>		
+		<li><a href="">Más información</a></li>
+		<li><a href="">Comprar</a></li>
+
+	</ul>
+	
+	</div>
+	<img class="img-reloj" src="images/images/imagenSextaSeccion.jpg" alt="">
+</div>
+
+
+<footer>
+<div class="colum">
+		<img src="images/images/icon1.jpg" alt="">
+		<h5>Entrega gratuita al día siguiente</h5>
+<p>Para pedidos en stock de más de 40 € realizados antes de las 15:00. Opción de recogida en un Apple
+Store.</p>
+	</div>
+	
+	
+	<div class="colum">
+		<img src="images/images/icon2.jpg" alt="">
+		<h5>Recogida en el Apple Store</h5>
+<p>Compra online y recoge los productos en stock.</p></p>
+	</div>
+	
+<div class="colum">
+<img src="images/images/icon3.jpg" alt="">
+		<h5>Recogida en el Apple Store</h5>
+<p>Compra online y recoge los productos en stock.</p></p>
+	</div>
+	
+<div class="colum">
+<img src="images/images/icon4.jpg" alt="">
+		<h5>Recogida en el Apple Store</h5>
+<p>Compra online y recoge los productos en stock.</p></p>
+	</div>
+	
+	<div>
+	<p>&copy;  2019 Diseñado para el examen de 2ºeva de LMSGI de 1º de daw y dam-</p>
+	<p> </div>
+	
+</footer>
+<div class="top"><a <hr>ef="#arriba">&#8593;</a></div>
+
+</body>
+</html>
